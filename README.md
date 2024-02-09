@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Samantha Jane Henrietta Waters, aka @hennie-the-barbarian
+- 😄 Pronouns: She/Her or They/Them
+- 👀 I’m interested in AI/NLP, infrastructure, DevOps, cloud computing, and how to make the world better for everyone
+- 🌱 I’m currently learning NATS for microservices. I really like the idea of a CNCF messaging/streaming/queueing system. Plus, I don't like that Kafka doesn't have an official Python async package.
+- 💞️ I'm always looking for (and starting) projects to help better the world. If you want to work with me or have a project you want my help with, please reach out!
+- 📫 You can find me at linkedin.com/sjhwaters
